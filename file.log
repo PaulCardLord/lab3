@@ -1,0 +1,1362 @@
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+BEGIN
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+
+---Importing MNIST data---
+file: train-images-idx3-ubyte.gz
+magic num: 2051
+item count: 60000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: train-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 60000
+finished
+---------BACKPROPAGATION INIT NET---------
+/n
+/n
+/n
+END OF TRAINING
+
+---Importing MNIST data---
+file: t10k-images-idx3-ubyte.gz
+magic num: 2051
+item count: 10000
+row count: 28
+col count: 28
+finished
+
+---Importing MNIST data---
+file: t10k-labels-idx1-ubyte.gz
+magic num: 2049
+item count: 10000
+finished
